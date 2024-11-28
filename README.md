@@ -6,7 +6,7 @@ also there are the files `xs.npy`, `ys.npy`, `xt.npy`, `yt.npy` - those files ar
 `xt.py` & `yt.pt` are the testing sets, they arn't shuffled.
 
 ## Image in the database
-each image in the database has 25x25 pixels, and the're single colored, with color range [0-255]
+Each image in the database has 25x25 pixels, and the're single colored, with color range [0-255]
 
 # examples
 <span>
