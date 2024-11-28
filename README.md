@@ -2,9 +2,9 @@
 Inside the `data.zip` file, there are 10 folders, one for each digit and in them 500 images from each digit,
 also there are the files `xs.npy`, `ys.npy`, `xt.npy`, `yt.npy` - those files are training-sets, and testing-sets of the images, but in the NumPy array format.
 
-`xs.npy` & `ys.npt` are the training sets.
+`xs.npy` & `ys.npt` are the training sets - 90% from the database.
 
-`xt.npy` & `yt.npt` are the testing sets.
+`xt.npy` & `yt.npt` are the testing sets - 10% from the database.
 
 <b>The *.npy files are not shuffled</b>
 
